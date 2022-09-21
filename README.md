@@ -49,7 +49,7 @@ I'm a professional and passionate Software Engineer focused on efficiency and co
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Mubashir" height="30"/></a>
           <a href="https://join.skype.com/invite/hGK9Zeoa409M" target="blank"><img align="center"
-         src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white
+         src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"
          alt="Mubashir" height="30"/></a>
     </p>
 <p align="center">
