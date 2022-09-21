@@ -21,7 +21,7 @@ I'm a professional and passionate Software Engineer and Asp.Net Core Developer f
        - 👋 Hi, I’m @Usama890-lab
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working as Full-Stack Developer
-- 💞️ I’m looking to collaborate on React projects
+- 💞️ I’m looking to collaborate on Asp.Net Core projects
 - 👀 My Profile https://iusama.netlify.app
 - 📫 How to reach me usamabaloch890@gmail.com
 </div>
