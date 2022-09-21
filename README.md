@@ -1,22 +1,4 @@
-<div align="center">
-<h1 align="center"><br>Hi, my name is Usama Khan
-  <br>
-I'm a Asp.Net Core Developer.</h1>
 
-</div>
-<div align="center">
-  <a href="https://github.com/Usama890-lab">
-  <img  src="./Profile.jpg"
-       alt="ME" /></a>
-</div>
-<h4 align="center">a Freelance Developer, Software Engineer, and Open Source Contributor.</h4>
-<div align="center">
-  <a href="https://github.com/Usama890-lab">
-<!--   <img  src="https://avatars.githubusercontent.com/u/59395132?v=4" -->
-<!--        alt="ME" height="30" /></a> -->
-    <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <h4 align="center">
 I'm a professional and passionate Software Engineer focused on efficiency and constant learning.</h4>
 
