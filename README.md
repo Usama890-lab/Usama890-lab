@@ -45,7 +45,7 @@ I'm a professional and passionate Software Engineer focused on efficiency and co
       <a href="https://www.facebook.com/m.usama.khan.654/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://mailto:usamabaloch890@gmail.com" target="blank"><img align="center"
+      <a href="mailto:usamabaloch890@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Mubashir" height="30"/></a>
           <a href="https://join.skype.com/invite/hGK9Zeoa409M" target="blank"><img align="center"
