@@ -56,7 +56,7 @@ I'm a professional and passionate Software Engineer focused on efficiency and co
       <a href="https://wa.me/+923444441654" target="_blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/mubi_says" target="_blank"><img align="center"
+      <a href="https://twitter.com/@iusamabaloch" target="_blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
