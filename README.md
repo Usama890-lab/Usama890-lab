@@ -51,7 +51,7 @@ I'm a professional and passionate Software Engineer focused on efficiency and co
     </p>
 <p align="center">
       <a href="https://www.instagram.com/iusamabaloch944/?hl=en" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"
+         src="https://img.shields.io/badge/Instagram-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://wa.me/+923444441654" target="_blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
