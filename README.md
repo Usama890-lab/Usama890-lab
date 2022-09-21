@@ -27,4 +27,12 @@ I'm a professional and passionate Software Engineer and MERN Stack Developer foc
 </div>
 
 <br>
+<h4 align="center">a Freelance Developer, Software Engineer, and Open Source Contributor.</h4>
 
+<div align="center">
+  <a href="https://github.com/Mubashirsw27">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<br>
