@@ -36,3 +36,35 @@ I'm a professional and passionate Software Engineer and MERN Stack Developer foc
 </div>
 
 <br>
+<div>
+  <samp>
+    <h2 align="center">😎 You can contact me on:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/usama-khan-baloch-86a5301b3/" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.facebook.com/m.usama.khan.654/" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:usamabaloch890@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Mubashir" height="30"/></a>
+          <a href="https://join.skype.com/invite/hGK9Zeoa409M" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"
+         alt="Mubashir" height="30"/></a>
+    </p>
+<p align="center">
+      <a href="https://www.instagram.com/iusamabaloch944/?hl=en" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+923444441654" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://twitter.com/@iusamabaloch" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
