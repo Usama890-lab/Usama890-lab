@@ -14,7 +14,7 @@ I'm a Asp.Net Core Developer.</h1>
 I'm a professional and passionate Software Engineer focused on efficiency and constant learning.</h4>
 
 <div align="center">
- <!-- <a href="https://github.com/iamohsin">
+ <!-- <a href="https://github.com/Usama890-lab">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a> -->
        
