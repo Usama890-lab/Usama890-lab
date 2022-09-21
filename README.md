@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"><br>Hi, my name is Usama Khan
   <br>
-I'm a Full Stack Developer.</h1>
+I'm a Asp.Net Core Developer.</h1>
 
 </div>
 
@@ -20,7 +20,7 @@ I'm a professional and passionate Software Engineer focused on efficiency and co
        
        - 👋 Hi, I’m @Usama890-lab
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working as Full-Stack Developer
+- 🌱 I’m currently working as Asp.Net Core Developer
 - 💞️ I’m looking to collaborate on Asp.Net Core projects
 - 👀 My Profile https://iusama.netlify.app
 - 📫 How to reach me usamabaloch890@gmail.com
