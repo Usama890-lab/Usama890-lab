@@ -49,12 +49,14 @@ I'm a professional and passionate Software Engineer focused on efficiency and co
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Mubashir" height="30"/></a>
     </p>
-  <p align="center">
-     
+<p align="center">
+      <a href="https://www.instagram.com/mubi.says/?hl=en" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
       <a href="https://wa.me/+923444441654" target="_blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/@iusamabaloch" target="_blank"><img align="center"
+      <a href="https://twitter.com/mubi_says" target="_blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
