@@ -13,15 +13,13 @@ I'm a Asp.Net Core Developer.</h1>
 <div align="center">
   <a href="https://github.com/Usama890-lab">
 <!--   <img  src="https://avatars.githubusercontent.com/u/59395132?v=4" -->
-<!--        alt="ME" /></a> -->
+<!--        alt="ME" height="30" /></a> -->
 </div>
 <h4 align="center">
 I'm a professional and passionate Software Engineer focused on efficiency and constant learning.</h4>
 
 <div align="center">
  <!-- <a href="https://github.com/Usama890-lab">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a> -->
        
        - 👋 Hi, I’m @Usama890-lab
 - 👀 I’m interested in Web Development
@@ -33,7 +31,7 @@ I'm a professional and passionate Software Engineer focused on efficiency and co
 
 <br>
 <div align="center">
-  <a href="https://github.com/Mubashirsw27">
+  <a href="https://github.com/Usama890-lab">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
