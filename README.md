@@ -48,7 +48,6 @@ I'm a professional and passionate Software Engineer focused on efficiency and co
       <a href="https://mailto:usamabaloch890@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Mubashir" height="30"/></a>
-      
     </p>
 <p align="center">
       <a href="https://www.instagram.com/iusamabaloch944/?hl=en" target="_blank"><img align="center"
