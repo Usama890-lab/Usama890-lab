@@ -4,11 +4,6 @@
 I'm a Asp.Net Core Developer.</h1>
 
 </div>
-<div align="center">
-  <a href="https://github.com/Usama890-lab">
-  <img  src="./Profile.jpg"
-       alt="ME" /></a>
-</div>
 <h4 align="center">a Freelance Developer, Software Engineer, and Open Source Contributor.</h4>
 <div align="center">
   <a href="https://github.com/Usama890-lab">
