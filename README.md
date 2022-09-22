@@ -11,7 +11,7 @@ I'm a Asp.Net Core Developer.</h1>
 <!--        alt="ME" /></a> -->
 </div>
 <h4 align="center">
-I'm a professional and passionate Software Engineer a Freelance Developer, and Open Source Contributor and Asp.Net Core Developer focused on efficiency and constant learning.</h4>
+I'm a professional and passionate Software Engineer, a Freelance Developer, and Open Source Contributor and Asp.Net Core Developer focused on efficiency and constant learning.</h4>
 
 <div align="center">
  <!-- <a href="https://github.com/Usama890-lab">
