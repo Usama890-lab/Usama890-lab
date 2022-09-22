@@ -11,7 +11,7 @@ I'm a Asp.Net Core Developer.</h1>
 <!--        alt="ME" /></a> -->
 </div>
 <h4 align="center">
-I'm a professional and passionate Software Engineer and Asp.Net Core Developer focused on efficiency and constant learning.</h4>
+I'm a professional and passionate Software Engineer a Freelance Developer, and Open Source Contributor and Asp.Net Core Developer focused on efficiency and constant learning.</h4>
 
 <div align="center">
  <!-- <a href="https://github.com/Usama890-lab">
@@ -25,9 +25,6 @@ I'm a professional and passionate Software Engineer and Asp.Net Core Developer f
 - 👀 My Profile https://iusama.netlify.app
 - 📫 How to reach me usamabaloch890@gmail.com
 </div>
-
-<br>
-<h4 align="center">a Freelance Developer, Software Engineer, and Open Source Contributor.</h4>
 
 <div align="center">
   <a href="https://github.com/Usama890-lab">
