@@ -20,7 +20,7 @@ I'm a professional and passionate Software Engineer, a Freelance Developer, Open
        
        - 👋 Hi, I’m @Usama890-lab
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working as Full-Stack Developer
+- 🌱 I’m currently working as Asp.Net Core Developer
 - 💞️ I’m looking to collaborate on Asp.Net Core projects
 - 👀 My Profile https://iusama.netlify.app
 - 📫 How to reach me usamabaloch890@gmail.com
